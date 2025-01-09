@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: mrinal/mrinaldevops:latest
+          image: mrinal06/k8s-project-deployment
           imagePullPolicy: Always
 
